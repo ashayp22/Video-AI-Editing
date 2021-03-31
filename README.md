@@ -1,6 +1,6 @@
 # Video AI Editing
 
-What does this program do?
+**What does this program do?**
 
 Given an input video, the program detects any smiles within the video and makes an image visible on the screen. The more a person smiles in the video, the more of the image is shown. This is done with a Haar Cascade and Convolutional Neural Network.
 
